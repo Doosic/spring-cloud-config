@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400001
-  secret: accerentIceCream-default
+  secret: accerentIceCream_dev
 
 gateway:
   ip: 192.168.56.119
