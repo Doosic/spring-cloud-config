@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400001
+  expiration_time: 86400002
   secret: accerentIceCream_dev
 
 gateway:
